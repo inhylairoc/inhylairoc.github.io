@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inhylairoc.github.io/sitemap.html.gz
+Sitemap: https://inhylairoc.github.io/app/sitemap.html.gz
+Sitemap: https://inhylairoc.github.io/assets/sitemap.html.gz
+Sitemap: https://inhylairoc.github.io/css/sitemap.html.gz
+Sitemap: https://inhylairoc.github.io/includes/sitemap.html.gz
+Sitemap: https://inhylairoc.github.io/item/sitemap.html.gz
+Sitemap: https://inhylairoc.github.io/src/sitemap.html.gz
